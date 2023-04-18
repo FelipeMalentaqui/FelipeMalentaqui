@@ -1,7 +1,7 @@
 <h1>Olá, eu sou o  Felipe!</h1>
   <h3>SOBRE MIM! 👨‍💻</h3>
     
- <p>Comecei minha jornada como programador na trybe, desde então venho aprendendo cada dia mais sobre este novo mundo maravilhoso. Hoje sou formado em Front-end, e estou finalizando  back-end, para ser um Full stack.</p>
+ <p>Comecei minha jornada estudando na trybe, desde então venho aprendendo cada dia mais sobre este universo da programação. Hoje sou formado em Front-end, e estou finalizando  back-end, para ser um Full stack.</p>
  
  <h2>Linguagens</>
   <div>
